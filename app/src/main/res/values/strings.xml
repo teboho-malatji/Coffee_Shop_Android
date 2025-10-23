@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="coffee_house">Coffee\n<font color="#F1953e">H</font>ouse</string>
+    <string name="get_started">Get Started</string>
+    <string name="coffee_house2">Coffee <font color="#F1953e">H</font>ouse</string>
+    <string name="search_anything">Search anything</string>
+    <string name="specials_for_you">Specials for you</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="favourite">Favourite</string>
+    <string name="my_orders">My Orders</string>
+    <string name="profile">Profile</string>
+    <string name="list">List</string>
+    <string name="description">Description</string>
+    <string name="coffee_size">Coffee Size</string>
+    <string name="price">Price</string>
+    <string name="_0">R0</string>
+    <string name="buy">Buy</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+</resources>
