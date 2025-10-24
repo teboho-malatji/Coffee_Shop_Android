@@ -15,7 +15,7 @@ This is a coffee shop mobile application demonstrating user authentication, prof
  ## Setup Instructions
 
 ### Backend Setup (Node.js Server)
-1. Download the "backend.zip" folder found on the following link: https://github.com/teboho-malatji/Coffee_Shop_backendAPI.git 
+1. Get the "backend.zip" folder found on the following link: https://github.com/teboho-malatji/Coffee_Shop_backendAPI.git 
 2. Run `npm install` command to install dependencies for the node server
 3. Start MongoDB on your computer
 4. In Command Prompt, open the project directory "cd C:\project folder path"
